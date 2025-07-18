@@ -28,10 +28,9 @@ A simple and responsive currency converter web app that lets users convert betwe
   <br/>
 
   ## 🖼️ Screenshots
-  <br/>
   https://drive.google.com/drive/folders/1B2LHdjqI3V0QKaYCdfVBlP0jiZJ9apWg?usp=sharing
   <br/>
-
+  
   👤 **Author**
   **Shashank Kumar**
 
