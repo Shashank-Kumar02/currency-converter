@@ -25,10 +25,12 @@ A simple and responsive currency converter web app that lets users convert betwe
 - [Flags API](https://flagsapi.com)
   <br/>
 - Font Awesome (for icons)
+  <br/>
 
-  🖼️ **Screenshots**
+  ## 🖼️ Screenshots
   <br/>
   https://drive.google.com/drive/folders/1B2LHdjqI3V0QKaYCdfVBlP0jiZJ9apWg?usp=sharing
+  <br/>
 
   👤 **Author**
   **Shashank Kumar**
